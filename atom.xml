@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>WUJI Forum</title>
+  <title>Singular&#39;s blog</title>
   
-  <subtitle>乌鸡，永远滴神！</subtitle>
+  <subtitle>博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://singulartnt.github.io/"/>
@@ -10,7 +10,7 @@
   <id>http://singulartnt.github.io/</id>
   
   <author>
-    <name>Singular</name>
+    <name>W. Liu</name>
     
   </author>
   
