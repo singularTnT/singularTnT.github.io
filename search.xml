@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>test</title>
+      <link href="/2020/02/26/test/"/>
+      <url>/2020/02/26/test/</url>
+      
+        <content type="html"><![CDATA[<p>测试。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Tech-Hexo </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2020/02/02/hello-world/"/>
       <url>/2020/02/02/hello-world/</url>
@@ -13,7 +32,7 @@
       
       <categories>
           
-          <category> Tech </category>
+          <category> Tech-Hexo </category>
           
       </categories>
       
